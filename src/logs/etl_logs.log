@@ -1,0 +1,11 @@
+2025-11-26 20:21:34,959 - INFO - Starting data extraction from D:\Fathi melondre\Data Engineer\Portofolio\radioq_etl\data\raw\Data_Radio_q.xlsx
+2025-11-26 20:21:36,199 - INFO - Data extraction completed successfully. Extracted 542 records.
+2025-11-26 20:21:36,214 - INFO - Starting data transformation.
+2025-11-26 20:21:36,214 - INFO - Dropping unnecessary columns.
+2025-11-26 20:21:36,219 - INFO - Cleaning names.
+2025-11-26 20:21:36,224 - INFO - Normalizing gender.
+2025-11-26 20:21:36,225 - INFO - Normalizing city names.
+2025-11-26 20:21:36,226 - INFO - Converting age to integer.
+2025-11-26 20:21:36,227 - INFO - Creating age group column.
+2025-11-26 20:21:36,228 - INFO - Renaming month column.
+2025-11-26 20:21:36,231 - INFO - Renaming origin column.
